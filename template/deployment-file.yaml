@@ -1,0 +1,4 @@
+template-file-path: ./template/DemoBookstoreMainTemplate.yaml
+Tags:
+    Name: 'aws-e2e'
+    Project: 'Phoenix'
