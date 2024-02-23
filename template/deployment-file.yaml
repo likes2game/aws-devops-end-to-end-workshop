@@ -1,4 +1,5 @@
-template-file-path: ./template/DemoBookstoreMainTemplate.yaml
+template-file-path: ./template/DemoBookstoreMainTemplate.yml
 Tags:
     Name: 'aws-e2e'
     Project: 'Phoenix'
+template-file-path: ./template/DemoBookstoreBooksServiceTemplate.yml
